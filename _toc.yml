@@ -1,0 +1,5 @@
+format: jb-article
+root: introduction
+sections:
+- file: sunlight
+- file: compass
